@@ -49,10 +49,10 @@ environ 10 minutes
 
 Pour faire simple, une mini-veille de 5 minutes serait parfaite !
 
-#### Workbench
+#### Benchmark
 
-> Vous avez tous travaillé sur un workbench détaillé qui détailler les sites concurent, vous pouvez donc parler des différents points importants à aborder pour le site de votre client: 
-* Personne (votre cible)
+> Vous avez tous travaillé sur un benchmark détaillé qui détailler les sites concurent, vous pouvez donc parler des différents points importants à aborder pour le site de votre client: 
+* Personna (votre cible)
 * design (rapidement les points communs)
 * contenu (rapide)
 
