@@ -7,6 +7,9 @@
 
 ----
 
+La règle no 1 est la suivante : des slides épurés. Moins le slide présente de texte, plus ce qui est écrit a un impact.
+
+
 ### 1 - Le plus important :  Se presenter
 
 ```sh
@@ -45,7 +48,7 @@ environ 10 minutes
 
 #### Sujet
 
-> Ici, montrer par exemple un screen de la première page de votre site, et presenter le thème et le sujet de votre recherche sur le sujet.
+> Ici, montrer par exemple un screen de la première page de votre site, et presenter le thème et le sujet de votre recherche.
 
 Pour faire simple, une mini-veille de 5 minutes serait parfaite !
 
