@@ -43,7 +43,7 @@ Montrez que vous avez travaillé de façon professionnelle en gérant vos taches
 environ 10 minutes
 ```
 
-#### Theme 
+#### Sujet
 
 > Ici, montrer par exemple un screen de la première page de votre site, et presenter le thème et le sujet de votre recherche sur le sujet.
 
