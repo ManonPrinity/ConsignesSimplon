@@ -28,7 +28,7 @@ environ 2 minutes
 * Qu'est ce que c'est ? 
 * Pourquoi Simplon ?
 
-#### 3 -Votre organisation 
+### 3 -Votre organisation 
 
 ```sh
 environ 2 minutes
