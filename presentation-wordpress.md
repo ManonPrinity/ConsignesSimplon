@@ -1,5 +1,5 @@
 
-# Présentation de votre projet en 4 étapes
+# Présentation de votre projet en 5 étapes
 
 ----
 
@@ -28,7 +28,7 @@ environ 2 minutes
 * Qu'est ce que c'est ? 
 * Pourquoi Simplon ?
 
-#### Votre organisation 
+#### 3 -Votre organisation 
 
 ```sh
 environ 2 minutes
@@ -37,7 +37,7 @@ environ 2 minutes
 > Expliquez et prouvez une certaine organisation dans votre travail.
 Montrez que vous avez travaillé de façon professionnelle en gérant vos taches à l'aide d'un outil en ligne ou non (agenda, trello ... )
 
-### 3 - Presenter son site 
+### 4 - Presenter son site 
 
 ```sh
 environ 10 minutes
@@ -64,7 +64,7 @@ Pour faire simple, une mini-veille de 5 minutes serait parfaite !
 
 > En gros, presenter et décrire avec un tableau ou graphique, les différentes pages de votre site.
 
-### 4 - Le tuto
+### 5 - Le tuto
 
 ```sh
 environ 10 minutes
